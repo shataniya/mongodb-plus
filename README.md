@@ -9,9 +9,9 @@
 >npm i mongodb-plus 
 ##### 2. Connect mongodb
 ```javascript
-//引入 mongodb-plus
+//import mongodb-plus
 const db = require("mongodb-plus")
-//连接数据库和原生的方式是一样的，这里我不做太多的改变
+//The way to connect to the database is the same as the native,I don't make too many changes here
 db.connect("mongodb://localhost:10086/demo1").then(()=>{
     console.log("connected...")
 }).catch(err=>{
