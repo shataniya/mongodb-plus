@@ -1,0 +1,51 @@
+{
+  "_from": "mongodb-plus",
+  "_id": "mongodb-plus@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-M8/T8sQdimcizMAPfX9oSTkPKQw=",
+  "_location": "/mongodb-plus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mongodb-plus",
+    "name": "mongodb-plus",
+    "escapedName": "mongodb-plus",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/mongodb-plus/download/mongodb-plus-1.0.2.tgz",
+  "_shasum": "33cfd3f2c41d8a6722ccc00f7d7f6849390f290c",
+  "_spec": "mongodb-plus",
+  "_where": "C:\\Users\\34762\\Desktop\\node-mongodb",
+  "author": {
+    "name": "sataniya"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mongodb": "^3.2.6"
+  },
+  "deprecated": false,
+  "description": "这是一个mongodb方法的封装库，可以让node操作mongodb数据库的时候更加轻松",
+  "devDependencies": {},
+  "keywords": [
+    "mongodb",
+    "mongodb-plus",
+    "node-mongodb",
+    "mongodb-p",
+    "mongodb-pl",
+    "mongodb-plu"
+  ],
+  "license": "ISC",
+  "main": "node-mongodb.js",
+  "name": "mongodb-plus",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}
